@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""Tests for `sotools` package."""
+"""Tests for `effsky` package."""
 
 
-from sotools import enmap
-from sotools import sharp
-from sotools import curvedsky
+from effsky import enmap
+from effsky import sharp
+from effsky import curvedsky
 import numpy as np
 
 def test_fullsky_geometry():

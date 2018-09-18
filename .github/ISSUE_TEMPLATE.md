@@ -1,4 +1,4 @@
-* sotools version:
+* effsky version:
 * Python version:
 * Operating System:
 

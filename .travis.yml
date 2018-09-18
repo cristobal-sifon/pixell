@@ -38,5 +38,5 @@ matrix:
 #     secure: PLEASE_REPLACE_ME
 #   on:
 #     tags: true
-#     repo: simonsobs/sotools
+#     repo: simonsobs/effsky
 #     python: 3.6

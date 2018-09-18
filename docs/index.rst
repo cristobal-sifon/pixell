@@ -1,4 +1,4 @@
-Welcome to sotools's documentation!
+Welcome to effsky's documentation!
 ======================================
 
 .. toctree::

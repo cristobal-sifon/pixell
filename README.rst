@@ -1,12 +1,12 @@
 =======
-sotools
+effsky
 =======
 
-.. image:: https://img.shields.io/travis/simonsobs/sotools.svg
-        :target: https://travis-ci.org/simonsobs/sotools
+.. image:: https://img.shields.io/travis/simonsobs/effsky.svg
+        :target: https://travis-ci.org/simonsobs/effsky
 
-.. image:: https://readthedocs.org/projects/sotools/badge/?version=latest
-        :target: https://sotools.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/effsky/badge/?version=latest
+        :target: https://effsky.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
 
@@ -16,7 +16,7 @@ sotools
 This is an early development repository for a CMB map analysis library. The API for core modules will likely remain the same as in amaurea/enlib, but module and repository names are very likely to change!
 
 * Free software: BSD license
-* Documentation: https://sotools.readthedocs.io.
+* Documentation: https://effsky.readthedocs.io.
 
 Dependencies
 ------------

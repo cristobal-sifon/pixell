@@ -9,7 +9,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=.
 set BUILDDIR=_build
-set SPHINXPROJ=sotools
+set SPHINXPROJ=effsky
 
 if "%1" == "" goto help
 

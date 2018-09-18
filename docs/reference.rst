@@ -12,48 +12,48 @@ See :ref:`UsagePage` for how to use these functions for common map manipulation 
 enmap - General map manipulation
 -----
 
-.. automodule:: sotools.enmap
+.. automodule:: effsky.enmap
    :members:    
 
 fft - Fourier transforms
 -----
 
-.. automodule:: sotools.fft
+.. automodule:: effsky.fft
    :members:    
 
 curvedsky - Curved-sky harmonic transforms
 -----
 
-.. automodule:: sotools.curvedsky
+.. automodule:: effsky.curvedsky
    :members:          
 
 utils - General utilities
 -----
 
-.. automodule:: sotools.utils
+.. automodule:: effsky.utils
    :members:    
    
 reproject - Map reprojection
 -----
       
-.. automodule:: sotools.reproject
+.. automodule:: effsky.reproject
    :members:    
       
 wcs - World Coordinate Sytem utilities
 -----
 
-.. automodule:: sotools.wcs
+.. automodule:: effsky.wcs
    :members:          
 
 slice - Array slicing utilities
 -----
 
-.. automodule:: sotools.slice
+.. automodule:: effsky.slice
    :members:          
 
 powspec - CMB power spectra utilities
 -----
 
-.. automodule:: sotools.powspec
+.. automodule:: effsky.powspec
    :members:          
       
